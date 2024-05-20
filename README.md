@@ -15,8 +15,7 @@ This repo includes work on topic modelling and multi-text classification using H
  
 - notebooks:
   - customers_reviews_topic_modelling.ipynb: includes the whole topic modelling work; from data preprocessing to feature engineering, LDA model training, topics visualisations and topics selection.
-  - sample_example_finetuning_setfit.ipynb: includes a simple notebook to fine-tune a setfit model quickly using a sample data from Datasets library
-  - customers_reviews_finetuning_setfit.ipynb: includes fine-tuning a setfit model on a small labelled of customers reviews
+  - customers_reviews_finetuning_setfit.ipynb: includes fine-tuning a setfit model on a small labelled of customers reviews and quick fine-tuning demo using data from the datasets HF library 
   - customers_reviews_inference_setfit.ipynb: includes the process to use the fine-tuned model to generate inference on unseen datapoints and applying evaluation/monitoring mechanism using text similarity algrothims.
 - README.md: a detailed description of project files.
 
