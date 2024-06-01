@@ -24,6 +24,7 @@ This repo includes work on topic modelling and multi-text classification using H
   - python >=3.8
   - pandas=1.5.3
   - re=2.2.1
+  - transformers==4.40.2
   - setfit=1.0.3
   - fuzzywuzzy=0.18.0
   - loguru=0.6.0
