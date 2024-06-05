@@ -29,14 +29,14 @@ This repo includes work on topic modelling and multi-text classification using H
 - Follow the pip installs within each notebook
 - Libraries and packages needed:
   - python >= 3.8
-  - pandas=1.5.3
-  - re=2.2.1
+  - pandas==1.5.3
+  - re==2.2.1
   - transformers==4.40.2
-  - setfit=1.0.3
-  - fuzzywuzzy=0.18.0
-  - loguru=0.6.0
-  - datasets=2.11
-  - nltk=3.8.1
-  - sklearn=1.2.2
-  - gensim=4.3.2
+  - setfit==1.0.3
+  - fuzzywuzzy==0.18.0
+  - loguru==0.6.0
+  - datasets==2.11
+  - nltk==3.8.1
+  - sklearn==1.2.2
+  - gensim==4.3.2
   - wordcloud==1.9.3
