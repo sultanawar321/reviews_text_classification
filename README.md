@@ -1,10 +1,10 @@
 # reviews_text_classification
 This repo includes work on topic modelling and multi-text classification using HuggingFace Setfit Method. The aim is to test two different approaches:
-- 1)  **Classic Topic Modelling:**
+- **1)  Classic Topic Modelling:**
      
      Objective: to uncover recurring themes and trends within customer comments using generative probabilistic modelling approach mainly LDA (Latent Dirichlet Allocation) from gensim and scikit-learn. Two feature engineering techniques are tested: Bag of words and TF-IDF (Term Frequency and Inverse Document Frequency).
 
-- 2)  **SetFit Few-Shot Learning:**
+- **2)  SetFit Few-Shot Learning:**
      
      Objective: to fine-tune a HuggingFace (HF) sentence transformers model with minimal data to automatically categorise and label reviews.
 
